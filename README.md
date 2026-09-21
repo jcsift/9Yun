@@ -2,6 +2,21 @@
 
 ![九云机场(9Yun)](https://i.eoht.net/airport/9yun_logo.webp "九云机场(9Yun)")
 
+九云机场(9Yun) 采用**海外中转线路与 VLESS 协议**，面向日常上网、流媒体观影和 AI 工具使用。月付从 **¥6、150GB/月**起，另有季付、年付特惠及不限时流量包，可按使用频率、每月流量和付款周期比较。
+
+> [!NOTE]
+> **30 秒看懂九云机场(9Yun)**
+>
+> - **月付入门**：招财版提供 150GB/月，月付 ¥6；聚财版 300GB/月、月付 ¥9，旺财版 600GB/月、月付 ¥16。
+> - **优惠码**：结算时输入 `9yun` 可享 8 折，适用套餐与最终实付金额以结算页为准。
+> - **周期特惠**：200GB/月特惠套餐季付 ¥18、年付 ¥72；400GB/月特惠套餐仅提供年付，全年 ¥99。
+> - **不限时流量**：鸿运版一次性 ¥99，提供总计 300GB 流量，不设使用时限，用完即止。
+> - **线路与场景**：海外中转、VLESS 协议，覆盖港、日、台、新、美等常用地区，支持 Netflix、YouTube、ChatGPT、Gemini 等服务。
+> - **订阅方式**：提供通用订阅，可导入支持 VLESS 协议及对应订阅格式的第三方客户端。
+>
+> <a href="https://eoht.net/serve/airport/9yun#9yun-vpn-plans">查看套餐与优惠码</a> · <a href="https://eoht.net/serve/airport/9yun#9yun-speed-test">查看测速参考</a> · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+>
+
 ## 九云机场(9Yun)VPN官网注册地址（当前可用｜套餐价格｜测速参考）
 
 **月付最低 ¥6，提供 150GB/月；200GB/月特惠套餐季付 ¥18、年付 ¥72，折合 ¥6/月。**
@@ -50,9 +65,35 @@
 
 ![九云机场(9Yun)节点测速参考图](https://i.eoht.net/airport/9yun_speed.webp "九云机场(9Yun)节点测速参考图")
 
-测速图只能反映测试时的节点和网络状态，实际速度会受到所在地区、运营商、设备、使用时段及所选节点影响。
+测速图只能反映测试时的节点和网络状态，实际速度会受到所在地区、运营商、设备、使用时段及所选节点影响。可以先找到常用地区节点，再结合晚高峰视频播放和 AI 服务访问体验判断是否适合自己的网络。
 
 完整测速图、流媒体与 AI 支持信息请查看：[完整评测](https://eoht.net/serve/airport/9yun)
+
+<a id="9yun-related-guides"></a>
+
+## 九云机场(9Yun)VPN常见问题与使用指南
+
+<a id="9yun-monthly-quarterly-plans"></a>
+
+### 九云机场月付 6 元和季付 18 元有什么区别？
+
+月付 ¥6 的招财版提供 **150GB/月**，也支持季付 ¥18、半年付 ¥36 和年付 ¥72。季付 200GB 特惠提供 **200GB/月**，季付同样为 ¥18，但不提供月付；半年付与年付分别为 ¥36 和 ¥72。两者每 30 天重置流量，可以按首次付款预算和月流量需求选择。
+
+<a id="9yun-annual-and-one-time-plans"></a>
+
+### 九云机场年付 99 元和不限时 99 元有什么区别？
+
+年付 ¥99 的特惠套餐提供 **400GB/月**，每 30 天重置流量，服务周期为一年。一次性 ¥99 的鸿运版提供**总计 300GB**，不限使用时长，流量用完即止。前者按周期提供流量，后者适合低频、按需使用。
+
+<a id="9yun-client-support"></a>
+
+### 九云机场支持哪些客户端？
+
+九云提供通用订阅，使用 VLESS 协议，可导入支持该协议及对应订阅格式的第三方客户端。选择与自己系统匹配的客户端后，可参考[科学上网客户端教程汇总](https://eoht.net/serve/antiwall/summary)完成安装和导入；具体订阅格式以机场提供的链接为准。
+
+想继续比较预算与线路，可阅读[中转与专线选择指南](https://eoht.net/serve/routes/selection)，或返回[机场推荐与套餐对比](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)；流媒体与 AI 使用可参考[流媒体观影指南](https://eoht.net/streaming/summary)和[AI 工具使用指南](https://eoht.net/ai/summary)。
+
+[立即购买九云机场套餐](https://eoht.net/serve/airport/9yun)
 
 - [2026 年机场推荐与套餐对比](https://eoht.net/serve/airport/summary)
 - [科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
